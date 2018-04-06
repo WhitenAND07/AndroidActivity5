@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HelloCallbacks</string>
+    <string name="onCreate">onCreate Callback</string>
+    <string name="newLine">\n</string>
+    <string name="onStart">onStart Callback</string>
+    <string name="onResume">onResume Callback</string>
+    <string name="onPause">onPause Callback</string>
+    <string name="onStop">onStop Callback</string>
+    <string name="onDestroy">onDestroy Callback</string>
+    <string name="onRestart">onRestart Callback</string>
+    <string name="onSaveInstanceState">onSaveInstanceState Callback</string>
+    <string name="onRestoreInstanceState">onRestoreInstanceState Callback</string>
+</resources>
